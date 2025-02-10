@@ -76,4 +76,7 @@ Hello! I'm Leo. Welcome to visit my GitHub. 🚀
   <a href="https://www.linkedin.com/in/seminleekorea">
     <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" width=150 height=150/>
   </a>
+  <a href="https://substack.com/@leolee3">
+    <img src="https://i.postimg.cc/wjmvRPxJ/substack.png" width=150 height=150/>
+  </a>
 </div>
