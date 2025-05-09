@@ -3,7 +3,7 @@
 Hello! I'm Leo. Welcome to visit my GitHub. 🚀
 
 - 👨‍💻 I specialize in **Computer Science**, and have worked as a **Backend Developer** while learning **Artificial Intelligence**.
-- 👨‍💻 I am currently applying for **AI Engineer** positions.
+- 👨‍💻 I'm going to be **specialist** in Cybersecurity. And I want to solve both of classical cyber security issues and Security issues in AI.
 - 👨‍💻 I am eager to study **Quantum Computing**, **AI**, **Blockchain**, and **Cybersecurity**.
 - 🌱 I am continuously learning and excited to contribute to innovative projects in these fields.
 - 📚 I enjoy solving complex problems and sharing knowledge.
