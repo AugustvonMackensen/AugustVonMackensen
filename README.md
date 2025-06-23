@@ -37,7 +37,7 @@ PyTorch | TensorFlow | Scikit-Learn | Pandas | Numpy
 <br>
 
 
-<h3 align="center">📫 Contact</h3>
+<h3>📫 Contact</h3>
 <div align="center">
   <a href="https://imperialtechnic.notion.site/Kaiserliche-Hofburg-865c7d277acc4ac5bed9e187575d3c02?pvs=74" title="Notion">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" width="80" height="80"/>
