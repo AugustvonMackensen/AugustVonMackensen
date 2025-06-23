@@ -1,13 +1,15 @@
 
 <!--타이틀 부분-->
-Hello! I'm Leo. Welcome to visit my GitHub. 🚀
+Hello! I'm Leo. Welcome to my GitHub. 🚀
 
-- 👨‍💻 I specialize in **Computer Science**, and have worked as a **Backend Developer** while learning **Artificial Intelligence**.
-- 👨‍💻 I'm going to be **specialist** in Cybersecurity. And I want to solve both of classical cyber security issues and Security issues in AI.
-- 👨‍💻 I am eager to study **Quantum Computing**, **AI**, **Blockchain**, and **Cybersecurity**.
-- 🌱 I am continuously learning and excited to contribute to innovative projects in these fields.
-- 📚 I enjoy solving complex problems and sharing knowledge.
-- 🔍 I plan to research **Cybersecurity** using **Artificial Intelligence** in the future.
+- 👨‍💻 I am currently focusing on **Cybersecurity**, especially **Vulnerability Analysis** and **Penetration Testing**.
+- 🎯 I solve **CTF challenges** and study offensive security to build practical skills.
+- 🔍 I am interested in **AI Security** and also applying **Machine Learning** to improve the efficiency of security analysis and detection.
+- ⚙️ I have experience as a **Backend Developer** and have studied **Artificial Intelligence**.
+- 🌱 I am continuously learning and building security-related projects, with hands-on training in vulnerability analysis, malware analysis, and exploit development.
+- 🚀 I also have long-term interests in **Quantum Computing**, **AI**, and **Blockchain**, but my primary focus is on cybersecurity.
+
+Thank you for visiting!
 
 
 <!--내용 부분-->
