@@ -40,7 +40,4 @@ PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy
   <a href="https://www.linkedin.com/in/seminleekorea" title="LinkedIn">
     <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" width="80" height="80"/>
   </a>&nbsp;
-  <a href="https://substack.com/@leolee3" title="Substack">
-    <img src="https://i.postimg.cc/wjmvRPxJ/substack.png" width="80" height="80"/>
-  </a>
 </div>
