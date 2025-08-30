@@ -19,6 +19,7 @@ Also Do not hesitate to visit my website : https://imperiumcyberneticumregale-8d
 - **AI for Security**
   - Machine Learning for threat detection
 - **Quantum Cryptography** (Long-term Interest)
+- **Blockchain**
 
 ---
 
